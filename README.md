@@ -1,0 +1,13 @@
+13
+- 👋 Hi, I’m @Alok-Goel-2908
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning python,js,html
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+Alok-Goel-2908/Alok-Goel-2908 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
