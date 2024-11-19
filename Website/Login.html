@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login Page</title>
+    <link rel="stylesheet" href="Login.css">
+</head>
+<body>
+    <script>
+        function mydata()
+        {
+            var a=document.getElementById("username").value;
+        var a=document.getElementById("password").value;
+
+        if(a==""||b=="")
+        {
+            alert("All fields are mandatory");
+            return false;
+        }
+        else {
+        true;
+        }
+}
+        
+    </script>
+    <div class="login-container">
+        <h2>Login</h2>
+        <form  onsubmit="return mydata()" action="abc.html">
+            <label for="username">Username</label>
+            <input type="text" id="username" name="username" >
+            <label for="password">Password</label>
+            <input type="password" id="password" name="password" >
+            <button type="submit">Login</button>
+        </form>
+    </div>
+</body>
+</html>

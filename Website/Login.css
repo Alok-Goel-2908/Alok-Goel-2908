@@ -1,0 +1,63 @@
+/* Full-screen background image for the page */
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-image: url('LoginBackground.jpg'); 
+    background-size: cover; 
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+/* Semi-transparent container for the login box */
+.login-container {
+    width: 300px;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent white */
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    text-align: center;
+}
+
+/* Heading style */
+.login-container h2 {
+    margin-bottom: 20px;
+    color: #333;
+}
+
+/* Label and input styles */
+.login-container label {
+    display: block;
+    text-align: left;
+    margin-bottom: 8px;
+    color: #333;
+    font-weight: bold;
+}
+
+.login-container input[type="text"],
+.login-container input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 16px;
+}
+.login-container button {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.login-container button:hover {
+    background-color: #0056b3;
+}
