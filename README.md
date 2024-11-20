@@ -1,7 +1,7 @@
 13
-- 👋 Hi, I’m @Alok-Goel-2908
+- 👋 Hi, I’m Alok Goel
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning python,js,html
+- 🌱 I’m currently learning Python,js,Html,CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
